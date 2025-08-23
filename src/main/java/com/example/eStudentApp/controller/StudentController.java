@@ -1,7 +1,7 @@
 package com.example.eStudentApp.controller;
 
-import com.example.demo.model.Student;
-import com.example.demo.repository.StudentRepository;
+import com.example.eStudentApp.model.Student;
+import com.example.eStudentApp.repository.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
