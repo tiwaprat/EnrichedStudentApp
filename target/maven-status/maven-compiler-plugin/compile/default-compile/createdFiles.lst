@@ -1,0 +1,4 @@
+com/example/eStudentApp/controller/StudentController.class
+com/example/eStudentApp/repository/StudentRepository.class
+com/example/eStudentApp/StudentAppApplication.class
+com/example/eStudentApp/model/Student.class
